@@ -27,13 +27,13 @@ Về phần Quản Trị viên thì hệ thống hỗ trợ quản lý toàn di�
 Ứng dụng này được phát triển trên nền tảng **Flutter** với giao diện thân thiện, trực quan và dễ sử dụng.
 
 ### Chức năng chính:
-# Dành cho Người dùng:
+#### Dành cho Người dùng:
 - **Tìm kiếm sách:** Người dùng có thể tìm kiếm sách theo tên, thể loại để dễ dàng tìm ra các đầu sách mong muốn.
 - **Giỏ hàng:** Cho phép người dùng thêm sách vào giỏ hàng, điều chỉnh số lượng sách và quản lý đơn hàng một cách thuận tiện.
 - **Quản lý tài khoản:** Hệ thống hỗ trợ người dùng đăng ký, đăng nhập và chỉnh sửa thông tin cá nhân một cách nhanh chóng và dễ dàng.
 - **Thanh toán trực tuyến:** Cung cấp nhiều phương thức thanh toán trực tuyến an toàn cho các đơn hàng đã chọn.
 - **Lịch sử đơn hàng:** Người dùng có thể xem lại lịch sử các đơn hàng đã đặt, bao gồm thông tin chi tiết về sản phẩm, trạng thái đơn hàng và ngày đặt hàng.
-# Dành cho Quản trị viên:
+#### Dành cho Quản trị viên:
 - **Quản lý sản phẩm:** Quản trị viên có thể thêm, sửa, xóa thông tin sản phẩm trong hệ thống.
 - **Quản lý đơn hàng:** Giám sát các đơn hàng của người dùng để tiện cho việc tổng kết doanh thu
 - **Quản lý người dùng:** Theo dõi và quản lý thông tin người dùng đã đăng ký tài khoản của app.
